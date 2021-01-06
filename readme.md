@@ -1,2 +1,2 @@
 # This is a Rock Paper Scissors game made using python.
-# This my first repository.  
+# This is my first repository.  
